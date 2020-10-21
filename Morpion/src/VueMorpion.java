@@ -10,6 +10,10 @@ import javax.swing.JPanel;
 public class VueMorpion extends JPanel {
 	
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 8963028847419402432L;
 	private JLabel joueurCourant;
 	private JButtonMorpion[][] grille;
 	private JLabel etatPartie;

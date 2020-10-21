@@ -55,6 +55,8 @@ public class ControleurMorpion implements ActionListener {
 			
 			
 				break;
+			default:
+				break;
 			
 			
 			}
